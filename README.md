@@ -34,5 +34,3 @@ Each folder (`Lab01`, `Lab02`, ..., `Lab13`) corresponds to a specific lab sessi
 ## Author
 Ayaan Khan (i220832)
 
----
-This repository is intended for educational purposes and demonstrates fundamental data structures and algorithms in C++.
