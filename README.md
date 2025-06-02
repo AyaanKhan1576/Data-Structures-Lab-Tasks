@@ -1,6 +1,6 @@
 # Data Structures Lab Assignments
 
-This repository contains C++ implementations and documentation for various data structures and algorithms, organized by weekly lab assignments for a university-level Data Structures course.
+This repository contains C++ implementations and documentation for various Data Structures, organized by weekly lab assignments for FAST NUCES Islamabad (Summer 2024)
 
 ## Structure
 Each folder (`Lab01`, `Lab02`, ..., `Lab13`) corresponds to a specific lab session. Inside each folder, you will find:
